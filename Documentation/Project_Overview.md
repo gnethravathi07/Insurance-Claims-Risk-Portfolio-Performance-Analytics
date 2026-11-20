@@ -288,7 +288,8 @@ local environment folders to GitHub.
 ------------------------------------------------------------------------
 
 **Project:** Insurance Claims, Risk & Portfolio Performance Analytics  
-**Author:** Nethra G  
+**Author:** Nethravathi
+G  
 **GitHub:** [gnethravathi07](https://github.com/gnethravathi07)  
 **LinkedIn:** [Nethra
 G](https://www.linkedin.com/in/nethravathi-g-2309772b6/)
